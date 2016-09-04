@@ -1,5 +1,7 @@
-<template lang="jade">
-| this is template login
+<template>
+<p>
+  this is template login
+</p>
 </template>
 <style>
 </style>
